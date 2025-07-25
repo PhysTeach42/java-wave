@@ -1,3 +1,3 @@
 function myOtherFunction() {
-    document.getElementById("demo3").innerHTML = "2nd file from folder";
+    document.getElementById("demo4").innerHTML = "2nd file from folder";
 }
